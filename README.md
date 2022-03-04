@@ -15,6 +15,9 @@
 <div style="display: "inline"> </br>
     <img alt="CSS3" align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div> </br>
+<div style="display: "inline"> </br>
+    <img alt="Python" align="center" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</div>
 Apaixonado por tecnologia, jogos e programação 👨‍💻
 
 
