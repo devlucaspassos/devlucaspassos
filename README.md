@@ -5,8 +5,6 @@
 
 ![Passos GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucaspassos&theme=outrun&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucaspassos&langs_count=8)](https://github.com/devlucaspassos)
-
 ## Technologies
 
 <div style="display: inline_block">
