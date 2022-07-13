@@ -3,7 +3,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasalexan/)
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-passos-545538224/)
 
-![Passos GitHub stats](https://github-readme-stats.vercel.app/apidevlucaspassosanuraghazra&show_icons=true&theme=radical)
+![Passos GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucaspassos&show_icons=true&theme=radical)
 
 ## Tecnologias
 
