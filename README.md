@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu Github! 🖖
+### Estudante de Engenharia de Energias e programador nas horas vagas 🖖
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandripassos/)
 
