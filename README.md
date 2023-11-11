@@ -13,7 +13,7 @@ I am an <strong>energy engineering</strong> student at the <strong>Federal Unive
  
  📚🌱 I’m currently learning <strong>C</strong> and <strong>C++</strong>
 
- 🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Python</strong>,<strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>anything</strong>
+ 🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>anything</strong>
  
  </div>
  
