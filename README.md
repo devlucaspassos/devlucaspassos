@@ -1,23 +1,19 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devlucaspassos.devlucaspassos" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Passos!;" />
 </h1>
 
 <h3 align="center">
-I am an <strong>energy engineering</strong> student at the <strong>Federal University of International Integration of Afro-Brazilian Lusofonia</strong> and a love to work with technology, programming and i'm now currently wornking on a project Notus, that is a college project about </h3>
+I am an <strong>energy engineering</strong> student at the <strong>Federal University of International Integration of Afro-Brazilian Lusofonia</strong></h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently studying <strong>Energy Engineering</strong>
+ 👷⚡ I’m currently studying <strong>Energy Engineering</strong>
  
- 🌱 I’m currently learning <strong>C</strong> and <strong>C++</strong>
+ 📚🌱 I’m currently learning <strong>C</strong> and <strong>C++</strong>
 
- 💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Python</strong>, <strong>C</strong>, <strong>R</strong> or <strong>anything</strong>**
-
- ⚡ **
+ 🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Python</strong>, <strong>C</strong>, <strong>R</strong> or <strong>anything</strong>
  
  </div>
  
@@ -26,7 +22,7 @@ I am an <strong>energy engineering</strong> student at the <strong>Federal Unive
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> 👩🏼‍💻 Technologies 🧠</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
