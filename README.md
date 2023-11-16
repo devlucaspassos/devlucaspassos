@@ -36,7 +36,7 @@ I am an <strong>energy engineering</strong> student at the <strong>Federal Unive
 <br>
 <div align=center>
 
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=devlucaspassos&count_private=true&theme=yellowdark&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-devlucaspassos.vercel.app/?user=devlucaspassos&count_private=true&theme=yellowdark&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=devlucaspassos&count_private=true&show_icons=true&theme=yellowdark&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 </div>
