@@ -9,7 +9,9 @@ I am an <strong>energy engineering</strong> student at the <strong>Federal Unive
  👷⚡ I’m currently studying <strong>Energy Engineering</strong>
  
  📚🌱 I’m currently learning <strong>C</strong> and <strong>C++</strong>
- 🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, <strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>anything</strong>
+ 🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, 
+<strong>Java</strong>,
+<strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>anything</strong>
  
  </div>
  
@@ -20,7 +22,7 @@ I am an <strong>energy engineering</strong> student at the <strong>Federal Unive
 <h2 align="center"> 👩🏼‍💻 Technologies 🧠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,java" />
     <img src="https://skillicons.dev/icons?i=python,c" /><br>
 </div>
 <br/>
