@@ -8,7 +8,7 @@ I am an <strong>energy engineering</strong> student at the <strong>Federal Unive
  
  👷⚡ I’m currently studying <strong>Energy Engineering</strong>
  
- 📚🌱 I’m currently learning <strong>C</strong> and <strong>C++</strong>
+ 📚🌱 I’m currently learning <strong>Java</strong>
  🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, 
 <strong>Java</strong>,
 <strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>anything</strong>
