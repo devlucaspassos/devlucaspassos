@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">
 💻 Análise e Desenvolvimento de Sistemas - <strong><a href="https://unifor.br/sobre-a-unifor" target="_blank">UNIFOR</a></strong> |  
-📚 Engenharia de Energias - <strong><a href="https://www.unilab.edu.br" target="_blank">UNILAB</a></strong> |  
+📚 Engenharia de Energias - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong> |  
 🔍 Pesquisador em Linguística (ênfase em Inglês).  
 </h3>
 <br/>
