@@ -2,12 +2,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Seja+bem+Vindo(a)!;" />
 </h1>
 <h3 align="center">
-💻 Programador | 📚 Estudante de Engenharia de Energias | 🔍 Pesquisador em Linguística (ênfase em Inglês) no GRECO. 🚀</h3>
+💻 Programador | 📚 Estudante de Engenharia de Energias | 🔍 Pesquisador em Linguística (ênfase em Inglês) no GRECO.</h3>
 <br/>
 <div align="center">
  
  📚🌱 Estudando <strong>Java</strong>
- 🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, 
+ 🗣️💬 Me pergunte algo sobre <strong>HTML5</strong>, <strong>CSS3</strong>, 
 <strong>Java</strong>,
 <strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>anything</strong>
  
