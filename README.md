@@ -1,14 +1,12 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lucas+Passos!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Seja+bem+Vindo(a)!;" />
 </h1>
 <h3 align="center">
-I am an <strong>energy engineering</strong> student at the <strong>Federal University of International Integration of Afro-Brazilian Lusofonia</strong></h3>
+💻 Programador | 📚 Estudante de Engenharia de Energias | 🔍 Pesquisador em Linguística (ênfase em Inglês) no GRECO. 🚀</h3>
 <br/>
 <div align="center">
  
- 👷⚡ I’m currently studying <strong>Energy Engineering</strong>
- 
- 📚🌱 I’m currently learning <strong>Java</strong>
+ 📚🌱 Estudando <strong>Java</strong>
  🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, 
 <strong>Java</strong>,
 <strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>anything</strong>
@@ -19,7 +17,7 @@ I am an <strong>energy engineering</strong> student at the <strong>Federal Unive
 </div>
  <hr/>
  
-<h2 align="center"> 👩🏼‍💻 Technologies 🧠</h2>
+<h2 align="center"> 👩🏼‍💻 Tecnologias 🧠</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,java" />
@@ -38,7 +36,7 @@ I am an <strong>energy engineering</strong> student at the <strong>Federal Unive
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;😘">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;😘">
 </h3>
 
 <br/>
