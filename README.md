@@ -23,8 +23,10 @@
 <h2 align="center"> 👩🏼‍💻 Tecnologias 🧠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,Json,github,git,r,java" />
+    <div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,json,github,git,r,java,javascript" />
     <img src="https://skillicons.dev/icons?i=python,c" /><br>
+</div>
 </div>
 <br/>
 <hr/>
