@@ -4,7 +4,7 @@
 <h3 align="center">
 👨‍💻💻 Análise e Desenvolvimento de Sistemas - <strong><a href="https://unifor.br/sobre-a-unifor" target="_blank">UNIFOR</a></strong>   <br>
 👷‍♂️⚡ Engenharia de Energias - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
-📚🔍 Pesquisador em Linguística (Inglês) <strong>CNPq</strong>
+📚🔍 Pesquisador em Linguística (Inglês) -  <strong><a href="" target="_blank">CNPq</a></strong>   <br>
 </h3>
 <br/>
 <div align="center">
