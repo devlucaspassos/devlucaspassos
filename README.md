@@ -2,9 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Seja+bem+Vindo(a)!;" />
 </h1> 
 <h3 align="center">
-💻 Análise e Desenvolvimento de Sistemas - <strong><a href="https://unifor.br/sobre-a-unifor" target="_blank">UNIFOR</a></strong> |  <br>
-📚 Engenharia de Energias - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong> |  <br>
-🔍 Pesquisador em Linguística (ênfase em Inglês).  
+💻 Análise e Desenvolvimento de Sistemas - <strong><a href="https://unifor.br/sobre-a-unifor" target="_blank">UNIFOR</a></strong>   <br>
+📚 Engenharia de Energias - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
+🔍 Pesquisador em Linguística (ênfase em Inglês)
 </h3>
 <br/>
 <div align="center">
@@ -12,7 +12,7 @@
  📚🌱 Estudando <strong>Java</strong><br>
  🗣️💬 Me pergunte algo sobre <strong>HTML5</strong>, <strong>CSS3</strong>, 
 <strong>Java</strong>,
-<strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>anything</strong>
+<strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> ou <strong>Javascript</strong>
  
  </div>
  
@@ -23,7 +23,7 @@
 <h2 align="center"> 👩🏼‍💻 Tecnologias 🧠</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,Javascript,github,git,r,java" />
     <img src="https://skillicons.dev/icons?i=python,c" /><br>
 </div>
 <br/>
