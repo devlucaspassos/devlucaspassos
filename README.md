@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Seja+bem+Vindo(a)!;" />
 </h1>
 <h3 align="center">
-💻 Análise e Desenvolvimento de Sistemas - <strong><a href="https://www.unifor.br" target="_blank">Unifor</a></strong> |  
-📚 Engenharia de Energias - <strong><a href="https://www.unilab.edu.br" target="_blank">Unilab</a></strong> |  
+💻 Análise e Desenvolvimento de Sistemas - <strong><a href="https://unifor.br/sobre-a-unifor" target="_blank">UNIFOR</a></strong> |  
+📚 Engenharia de Energias - <strong><a href="https://www.unilab.edu.br" target="_blank">UNILAB</a></strong> |  
 🔍 Pesquisador em Linguística (ênfase em Inglês).  
 </h3>
 <br/>
