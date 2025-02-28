@@ -1,12 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+!+👋;+Welcome!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Oh+shit!+here+we+go+again!+🤘;+⭐⭐⭐⭐⭐;" />
+    
 </h1> 
-
 <h3 align="center">
-👨‍💻💻 Systems Developer<br>
+👨‍💻💾 Front-end Dev <br>
 👷‍♂️⚡ Energy Engineering - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
-📚🔍 Linguistics Researcher (English) -  <strong><a href="" target="_blank">CNPq</a></strong>   <br>
-🤖📊 Enthusiast in Artificial Intelligence (AI) applied to Data Science<br>
+📚🔍 Linguistics Researcher (English) -  <strong><a href="https://twas.org/opportunity/twas-cnpq-postgraduate-fellowship-programme" target="_blank">CNPq</a></strong> <br>
 </h3>
 
 <br/>
@@ -31,10 +30,6 @@
     <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,java,javascript" />
     <img src="https://skillicons.dev/icons?i=python,c" /><br>
-    <!-- AI-related icons -->
-    <img src="https://skillicons.dev/icons?i=ai,tensorflow,pytorch" />
-    <!-- Deepseek icon (replace with your hosted image URL) -->
-    <img src="https://via.placeholder.com/48/000000/FFFFFF?text=DS" alt="Deepseek Icon" width="48" height="48" />
 </div>
 </div>
 <br/>
