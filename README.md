@@ -1,26 +1,30 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Seja+bem+Vindo(a)!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+!+👋;+Welcome!;" />
 </h1> 
+
 <h3 align="center">
-👨‍💻💻 Desenvolvedor de sistemas<br>
-👷‍♂️⚡ Engenharia de energias - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
-📚🔍 Pesquisador em Linguística (Inglês) -  <strong><a href="" target="_blank">CNPq</a></strong>   <br>
+👨‍💻💻 Systems Developer<br>
+👷‍♂️⚡ Energy Engineering - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
+📚🔍 Linguistics Researcher (English) -  <strong><a href="" target="_blank">CNPq</a></strong>   <br>
 </h3>
+
 <br/>
+
 <div align="center">
  
- 📚🌱 Estudando <strong>Java</strong><br>
- 🗣️💬 Me pergunte algo sobre <strong>HTML5</strong>, <strong>CSS3</strong>, 
+ 📚🌱 Currently studying <strong>Java</strong><br>
+ 🗣️💬 Ask me about <strong>HTML5</strong>, <strong>CSS3</strong>, 
 <strong>Java</strong>,
-<strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> ou <strong>Javascript</strong>
+<strong>Python</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>R</strong> or <strong>Javascript</strong>
  
  </div>
  
 <div align="center"> 
 </div>
- <hr/>
+
+<hr/>
  
-<h2 align="center"> 👩🏼‍💻 Tecnologias 🧠</h2>
+<h2 align="center"> 👩🏼‍💻 Technologies 🧠</h2>
 <br/>
 <div align="center">
     <div align="center">
@@ -40,7 +44,7 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+visita!;😘">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+visiting!;😘">
 </h3>
 
 <br/>
