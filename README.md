@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Seja+bem+Vindo(a)!;" />
 </h1> 
 <h3 align="center">
-👨‍💻💻 Front-end dev <br>
-👷‍♂️⚡ Engenharia de Energias - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
+👨‍💻💻 Desenvolvedor de sistemas<br>
+👷‍♂️⚡ Engenharia de energias - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
 📚🔍 Pesquisador em Linguística (Inglês) -  <strong><a href="" target="_blank">CNPq</a></strong>   <br>
 </h3>
 <br/>
