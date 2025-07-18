@@ -3,8 +3,8 @@
     
 </h1> 
 <h3 align="center">
-👨‍💻💾 Front-end Dev <br>
-👷‍♂️⚡ Energy Engineering - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
+👨‍💻 Software Dev <br>
+👷‍♂️💻 Computer Engineering - <strong><a href="https://unilab.edu.br/institucional-2/" target="_blank">UNILAB</a></strong>   <br>
 📚🔍 Linguistics Researcher (English) -  <strong><a href="https://twas.org/opportunity/twas-cnpq-postgraduate-fellowship-programme" target="_blank">CNPq</a></strong> <br>
 </h3>
 
